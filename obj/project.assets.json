@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Donii\\Documents\\FATEC\\CURSOS\\GITHUB\\DigitalInnovationOne\\DigitalInnovationOne.csproj",
-      "projectName": "DigitalInnovationOne",
-      "projectPath": "C:\\Users\\Donii\\Documents\\FATEC\\CURSOS\\GITHUB\\DigitalInnovationOne\\DigitalInnovationOne.csproj",
+      "projectUniqueName": "C:\\Users\\Donii\\Documents\\FATEC\\CURSOS\\GITHUB\\DigitalInnovationOnee\\Dio-passos-com-.NET-C-\\EstruturaDoPrograma.csproj",
+      "projectName": "EstruturaDoPrograma",
+      "projectPath": "C:\\Users\\Donii\\Documents\\FATEC\\CURSOS\\GITHUB\\DigitalInnovationOnee\\Dio-passos-com-.NET-C-\\EstruturaDoPrograma.csproj",
       "packagesPath": "C:\\Users\\Donii\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Donii\\Documents\\FATEC\\CURSOS\\GITHUB\\DigitalInnovationOne\\obj\\",
+      "outputPath": "C:\\Users\\Donii\\Documents\\FATEC\\CURSOS\\GITHUB\\DigitalInnovationOnee\\Dio-passos-com-.NET-C-\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Donii\\AppData\\Roaming\\NuGet\\NuGet.Config",

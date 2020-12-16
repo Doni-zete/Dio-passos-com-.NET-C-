@@ -3,7 +3,7 @@ using System;
 namespace EstruturaDoPrograma
 {
 
-    public class pilha
+    public class Pilha
     {
         Posicao primeiro;
         public void Empilha(object item)
@@ -16,7 +16,7 @@ namespace EstruturaDoPrograma
         {
             if (primeiro == null)
             {
-                throw new InvalidOperationException();
+                throw new InvalidOperationException("A pilha esta vazia!");
             }
             object resultado = primeiro.item;
             primeiro = primeiro.proximo;
@@ -25,7 +25,7 @@ namespace EstruturaDoPrograma
 
         class Posicao
         {
-            public Posicao poximo;
+            public Posicao proximo;
             public object item;
             public Posicao(Posicao proximo, object item)
             {

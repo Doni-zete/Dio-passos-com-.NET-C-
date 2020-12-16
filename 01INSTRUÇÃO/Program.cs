@@ -1,12 +1,13 @@
 ﻿using System;
+using EstruturaDoPrograma;
 
-namespace EstruturaDoPrograma.Exemplos
+namespace EstruturaDoPrograma
 {
     class Program
     {
         static void Main()
         {
-            var s = new Exemplos.Pilha();
+            var s = new Pilha();
             s.Empilha(1);
             s.Empilha(10);
             s.Empilha(100);

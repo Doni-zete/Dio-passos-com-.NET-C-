@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace Instrucoes
 {
@@ -101,8 +101,65 @@ namespace Instrucoes
             }
         }
 
+        static void InstrucoesContinue(string[] args)
+        {
+            for (int i = 0; i < args.Length; i++)
+            {
+                if (args[i].StartWith("/"))
+                {
+                    continue;
+                }
+                else
+                {
+                    Console.WriteLine(args[i]);
+                }
+            }
+
+        }
+        static void InstrucoesReturn()
+        {
+            int Somar(int a, int b)
+            {
+
+                return a + b;
+            }
+
+            Console.WriteLine(Somar(1, 2));
+            Console.WriteLine(Somar(3, 4));
+            Console.WriteLine(Somar(5, 6));
+            return;
+        }
+
+
+
+
+        static void InstrucoesTryCatchFinallyThrow(string[] args)
+        {
+            double Dividir(double x, double y)
+            {
+                if (y == 0)
+                    throw new DivideByZeroException();
+
+                return x / y;
+
+            }
+            try
+            {
+                if (args.Length != 2)
+                {
+                    throw new InvalidOperationException("informe 2 numeros")
+                }
+
+            }
+            catch (System.Exception)
+            {
+
+                throw;
+            }
+
+        }
 
 
     }
 
-}
+ 

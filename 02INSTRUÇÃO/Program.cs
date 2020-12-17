@@ -69,7 +69,6 @@ namespace Instrucoes
             } while (!string.IsNullOrEmpy(texto));
         }
 
-
         static void InstrucoesFor(string[] args)
         {
             for (int i = 0; i < args.Length; i++)
@@ -78,7 +77,6 @@ namespace Instrucoes
             }
         }
 
-
         static void InstrucoesForeach(string[] args)
         {
             foreach (string s in args)
@@ -86,7 +84,6 @@ namespace Instrucoes
                 Console.WriteLine(s);
             }
         }
-
 
         static void InstrucoesBreak(string[] args)
         {
@@ -130,9 +127,6 @@ namespace Instrucoes
             return;
         }
 
-
-
-
         static void InstrucoesTryCatchFinallyThrow(string[] args)
         {
             double Dividir(double x, double y)
@@ -147,19 +141,38 @@ namespace Instrucoes
             {
                 if (args.Length != 2)
                 {
-                    throw new InvalidOperationException("informe 2 numeros")
+                    throw new InvalidOperationException("informe 2 numeros");
                 }
 
+                double x = double.Parse(args[0]);
+                double y = double.Parse(args[1]);
+                Console.WriteLine(Dividir(x, y));
             }
-            catch (System.Exception)
+            catch (InvalidOperationException e)
             {
-
-                throw;
+                Console.WriteLine(e.Message);
             }
-
+            catch (Exception e)
+            {
+                Console.WriteLine($"Erro generico: {e.Message}");
+            }
+            finally
+            {
+                Console.WriteLine("Até breve!");
+            }
         }
 
+        static void InstrucoesUsing(string[] args)
+        {
+            using (System.IO.TextWriter w = System.IO.File.CreateText("text.txt"))
+            {
+                w.WriteLine("Line 1");
+                w.WriteLine("Line 2");
+                w.WriteLine("Line 3");
+            }
+        }
 
     }
 
- 
+}
+

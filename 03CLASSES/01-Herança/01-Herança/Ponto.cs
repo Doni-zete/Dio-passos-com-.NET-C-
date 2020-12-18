@@ -1,4 +1,4 @@
-namespace Classes.Herança
+/* namespace Classes.Herança
 {
     public class Ponto
     {
@@ -22,4 +22,4 @@ namespace Classes.Herança
         private void CalcularDistancia2()
     }
 
-}
+} */

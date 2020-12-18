@@ -1,4 +1,4 @@
-namespace Classes.Herança
+/* namespace Classes.Herança
 {
     public class Ponto3D : Ponto
     {
@@ -21,4 +21,4 @@ namespace Classes.Herança
         }
     }
 
-}
+} */

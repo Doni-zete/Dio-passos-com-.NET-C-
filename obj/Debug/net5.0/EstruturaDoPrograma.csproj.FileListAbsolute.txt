@@ -3,14 +3,3 @@ C:\Users\Donii\Documents\FATEC\CURSOS\GITHUB\DigitalInnovationOnee\Dio-passos-co
 C:\Users\Donii\Documents\FATEC\CURSOS\GITHUB\DigitalInnovationOnee\Dio-passos-com-.NET-C-\obj\Debug\net5.0\EstruturaDoPrograma.AssemblyInfoInputs.cache
 C:\Users\Donii\Documents\FATEC\CURSOS\GITHUB\DigitalInnovationOnee\Dio-passos-com-.NET-C-\obj\Debug\net5.0\EstruturaDoPrograma.AssemblyInfo.cs
 C:\Users\Donii\Documents\FATEC\CURSOS\GITHUB\DigitalInnovationOnee\Dio-passos-com-.NET-C-\obj\Debug\net5.0\EstruturaDoPrograma.csproj.CoreCompileInputs.cache
-C:\Users\Donii\Documents\FATEC\CURSOS\GITHUB\DigitalInnovationOnee\Dio-passos-com-.NET-C-\bin\Debug\net5.0\EstruturaDoPrograma.exe
-C:\Users\Donii\Documents\FATEC\CURSOS\GITHUB\DigitalInnovationOnee\Dio-passos-com-.NET-C-\bin\Debug\net5.0\EstruturaDoPrograma.deps.json
-C:\Users\Donii\Documents\FATEC\CURSOS\GITHUB\DigitalInnovationOnee\Dio-passos-com-.NET-C-\bin\Debug\net5.0\EstruturaDoPrograma.runtimeconfig.json
-C:\Users\Donii\Documents\FATEC\CURSOS\GITHUB\DigitalInnovationOnee\Dio-passos-com-.NET-C-\bin\Debug\net5.0\EstruturaDoPrograma.runtimeconfig.dev.json
-C:\Users\Donii\Documents\FATEC\CURSOS\GITHUB\DigitalInnovationOnee\Dio-passos-com-.NET-C-\bin\Debug\net5.0\EstruturaDoPrograma.dll
-C:\Users\Donii\Documents\FATEC\CURSOS\GITHUB\DigitalInnovationOnee\Dio-passos-com-.NET-C-\bin\Debug\net5.0\ref\EstruturaDoPrograma.dll
-C:\Users\Donii\Documents\FATEC\CURSOS\GITHUB\DigitalInnovationOnee\Dio-passos-com-.NET-C-\bin\Debug\net5.0\EstruturaDoPrograma.pdb
-C:\Users\Donii\Documents\FATEC\CURSOS\GITHUB\DigitalInnovationOnee\Dio-passos-com-.NET-C-\obj\Debug\net5.0\EstruturaDoPrograma.dll
-C:\Users\Donii\Documents\FATEC\CURSOS\GITHUB\DigitalInnovationOnee\Dio-passos-com-.NET-C-\obj\Debug\net5.0\ref\EstruturaDoPrograma.dll
-C:\Users\Donii\Documents\FATEC\CURSOS\GITHUB\DigitalInnovationOnee\Dio-passos-com-.NET-C-\obj\Debug\net5.0\EstruturaDoPrograma.pdb
-C:\Users\Donii\Documents\FATEC\CURSOS\GITHUB\DigitalInnovationOnee\Dio-passos-com-.NET-C-\obj\Debug\net5.0\EstruturaDoPrograma.genruntimeconfig.cache

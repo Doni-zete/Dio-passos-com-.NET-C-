@@ -1,0 +1,5 @@
+C:\Users\Donii\Documents\FATEC\CURSOS\GITHUB\DigitalInnovationOnee\Dio-passos-com-.NET-C-\obj\Debug\net5.0\04REVISÃO.csprojAssemblyReference.cache
+C:\Users\Donii\Documents\FATEC\CURSOS\GITHUB\DigitalInnovationOnee\Dio-passos-com-.NET-C-\obj\Debug\net5.0\04REVISÃO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Donii\Documents\FATEC\CURSOS\GITHUB\DigitalInnovationOnee\Dio-passos-com-.NET-C-\obj\Debug\net5.0\04REVISÃO.AssemblyInfoInputs.cache
+C:\Users\Donii\Documents\FATEC\CURSOS\GITHUB\DigitalInnovationOnee\Dio-passos-com-.NET-C-\obj\Debug\net5.0\04REVISÃO.AssemblyInfo.cs
+C:\Users\Donii\Documents\FATEC\CURSOS\GITHUB\DigitalInnovationOnee\Dio-passos-com-.NET-C-\obj\Debug\net5.0\04REVISÃO.csproj.CoreCompileInputs.cache

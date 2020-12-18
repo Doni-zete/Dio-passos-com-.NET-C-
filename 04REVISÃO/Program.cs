@@ -43,7 +43,7 @@ namespace _04REVISÃO
                         {   if(!string.IsNullOrEmpty(a.Nome))
 
                         {
-                            Console.WriteLine($"ALUNO: {a.Nome} -NOTA:{a.Nota}");
+                            Console.WriteLine($"ALUNO : {a.Nome} - NOTA: {a.Nota}");
                         }
                         }                        
                             
@@ -61,15 +61,30 @@ namespace _04REVISÃO
                         }
                         }
                         var mediaGeral = notaTotal/ nrAlunos;
-                       if (mediaGeral <3)
-                       {
+                        Conceito conceitoGeral;
 
+                       if (mediaGeral <2)
+                       {
+                           conceitoGeral = Conceito.E;
+                       }
+                       else if (mediaGeral < 4 )
+                       {
+                           conceitoGeral = Conceito.D;
+                       }
+                       else if (mediaGeral <=6 )
+                       {
+                           conceitoGeral = Conceito.C;
+                       }
+                        else if (mediaGeral <8 )
+                       {
+                           conceitoGeral = Conceito.B;
+                       }
+                        else
+                       {
+                           conceitoGeral = Conceito.A;
                        }
 
-
-
-
-                        Console.WriteLine($"Media Geral:{mediaGeral}");
+                        Console.WriteLine($"Media Geral:{mediaGeral} - CONCEITO: {conceitoGeral}");
 
                         break;
                     default:

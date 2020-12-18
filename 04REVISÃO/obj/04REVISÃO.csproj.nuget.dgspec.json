@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Donii\\Documents\\FATEC\\CURSOS\\GITHUB\\DigitalInnovationOnee\\04REVISÃO\\04REVISÃO.csproj": {}
+    "C:\\Users\\Donii\\Documents\\FATEC\\CURSOS\\GITHUB\\DigitalInnovationOnee\\Dio-passos-com-.NET-C-\\04REVISÃO\\04REVISÃO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Donii\\Documents\\FATEC\\CURSOS\\GITHUB\\DigitalInnovationOnee\\04REVISÃO\\04REVISÃO.csproj": {
+    "C:\\Users\\Donii\\Documents\\FATEC\\CURSOS\\GITHUB\\DigitalInnovationOnee\\Dio-passos-com-.NET-C-\\04REVISÃO\\04REVISÃO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Donii\\Documents\\FATEC\\CURSOS\\GITHUB\\DigitalInnovationOnee\\04REVISÃO\\04REVISÃO.csproj",
+        "projectUniqueName": "C:\\Users\\Donii\\Documents\\FATEC\\CURSOS\\GITHUB\\DigitalInnovationOnee\\Dio-passos-com-.NET-C-\\04REVISÃO\\04REVISÃO.csproj",
         "projectName": "04REVISÃO",
-        "projectPath": "C:\\Users\\Donii\\Documents\\FATEC\\CURSOS\\GITHUB\\DigitalInnovationOnee\\04REVISÃO\\04REVISÃO.csproj",
+        "projectPath": "C:\\Users\\Donii\\Documents\\FATEC\\CURSOS\\GITHUB\\DigitalInnovationOnee\\Dio-passos-com-.NET-C-\\04REVISÃO\\04REVISÃO.csproj",
         "packagesPath": "C:\\Users\\Donii\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Donii\\Documents\\FATEC\\CURSOS\\GITHUB\\DigitalInnovationOnee\\04REVISÃO\\obj\\",
+        "outputPath": "C:\\Users\\Donii\\Documents\\FATEC\\CURSOS\\GITHUB\\DigitalInnovationOnee\\Dio-passos-com-.NET-C-\\04REVISÃO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Donii\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -30,7 +30,7 @@ namespace Instrucoes
             }
         }
 
-        static void InstrucoesSwitch(string[] args)
+        static void  InstrucoesSwitch(string[] args)
         {
             int numeroDeArgumentos = args.Length;
             switch (numeroDeArgumentos)

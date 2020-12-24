@@ -39,6 +39,7 @@ namespace Instrucoes
                     Console.WriteLine("Nenhum argumento");
                     break;
                 case 1:
+                
                     Console.WriteLine("Um argumento");
                     break;
                 default:
